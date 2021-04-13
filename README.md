@@ -2,8 +2,7 @@
  - `python main.py 10000`
 
 # Sample
-<img src="./data/CACINU.png" width="200">
-<img src="./data/PPXXXQ.png" width="200">
+<img src="./data/CACINU.png" width="200"> <img src="./data/PPXXXQ.png" width="200">
 <img src="./data/VNTKTI.png" width="200">
 <img src="./data/BWVDCK.png" width="200">
 <img src="./data/OHYUGK.png" width="200">
